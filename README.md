@@ -12,6 +12,11 @@ Code coverage can be run by installing the coverage tool using pip and running t
 
 Details about files:
 a. task2.py: This file contains the script to find the total number of test files and the number of assert statements in each file.
+
 b. tak3.py: This file contains the script to find the location,file and number of times debug  statements has appeared in the production files.
+
 c. task3_2.py:This file contains the scripts to find the location,file and the number of times assert statements has appeared in the production files.
+
 d. gen-figures.py: This script was used to plot the figures.
+
+e. task4.py: This file contains the scripts to find when test files are added,modified to this project and by whom, within last six months.
