@@ -1,0 +1,762 @@
+﻿Column1,Column2,Column3,Column4,Column5
+ test_hypotests.py,10/3/2021 2:02,MODIFY,10/3/2021 11:02,Samuel Wallan
+ test_optimize.py,10/4/2021 18:03,MODIFY,10/4/2021 11:03,Atsushi Sakai
+ test_optimize.py,10/4/2021 23:14,MODIFY,10/4/2021 23:14,Atsushi Sakai
+ test_optimize.py,10/5/2021 19:23,MODIFY,10/5/2021 19:23,Atsushi Sakai
+ test_optimize.py,10/5/2021 19:29,MODIFY,10/5/2021 19:29,Atsushi Sakai
+ test_optimize.py,10/5/2021 22:02,MODIFY,10/5/2021 22:02,Atsushi Sakai
+ test_cythonized_array_utils.py,9/5/2021 18:48,ADD,10/10/2021 14:55,Ilhan Polat
+ test_cythonized_array_utils.py,9/7/2021 13:56,MODIFY,10/10/2021 14:55,Ilhan Polat
+ test_cythonized_array_utils.py,9/7/2021 15:06,MODIFY,10/10/2021 14:55,Ilhan Polat
+ test_cythonized_array_utils.py,9/8/2021 0:33,MODIFY,10/10/2021 14:55,Ilhan Polat
+ test_cythonized_array_utils.py,9/8/2021 0:45,MODIFY,10/10/2021 14:55,Ilhan Polat
+ test_cythonized_array_utils.py,9/19/2021 21:46,MODIFY,10/10/2021 14:55,Ilhan Polat
+ test_polyint.py,10/10/2021 19:22,MODIFY,10/10/2021 19:22,Anirudh Dagar
+ test_basic.py,10/10/2021 19:22,MODIFY,10/10/2021 19:22,Anirudh Dagar
+ test_signaltools.py,10/10/2021 19:22,MODIFY,10/10/2021 19:22,Anirudh Dagar
+ test_spectral.py,10/10/2021 19:22,MODIFY,10/10/2021 19:22,Anirudh Dagar
+ test_rotation.py,10/10/2021 19:22,MODIFY,10/10/2021 19:22,Anirudh Dagar
+ test_stats.py,10/10/2021 19:22,MODIFY,10/10/2021 19:22,Anirudh Dagar
+ test_arpack.py,10/10/2021 21:22,MODIFY,10/10/2021 22:22,Dima Pasechnik
+ test_stats.py,10/11/2021 16:17,MODIFY,10/11/2021 16:17,Andrew Nelson
+ test_optimize.py,10/11/2021 20:23,MODIFY,10/11/2021 20:23,Atsushi Sakai
+ test_bvp.py,10/11/2021 23:50,MODIFY,10/11/2021 23:50,Anirudh Dagar
+ test_filter_design.py,10/11/2021 23:50,MODIFY,10/11/2021 23:50,Anirudh Dagar
+ test_orthogonal.py,10/11/2021 23:50,MODIFY,10/11/2021 23:50,Anirudh Dagar
+ test_morestats.py,10/11/2021 23:50,MODIFY,10/11/2021 23:50,Anirudh Dagar
+ test_sampling.py,10/14/2021 7:51,MODIFY,10/14/2021 11:09,Christoph Baumgarten
+ test_optimize.py,10/15/2021 15:09,MODIFY,10/15/2021 15:09,Andrew Nelson
+ test_optimize.py,10/15/2021 15:37,MODIFY,10/15/2021 15:37,Andrew Nelson
+ test_optimize.py,10/15/2021 15:43,MODIFY,10/15/2021 15:43,Andrew Nelson
+ test_lobpcg.py,10/16/2021 10:49,MODIFY,10/16/2021 16:49,Andrew Knyazev
+ test_mio.py,10/18/2021 15:03,MODIFY,10/18/2021 9:03,Anton Akhmerov
+ test_mmio.py,10/18/2021 15:03,MODIFY,10/18/2021 9:03,Anton Akhmerov
+ test_sketches.py,10/18/2021 15:03,MODIFY,10/18/2021 9:03,Anton Akhmerov
+ test_graph_laplacian.py,10/18/2021 15:03,MODIFY,10/18/2021 9:03,Anton Akhmerov
+ test_spanning_tree.py,10/18/2021 15:03,MODIFY,10/18/2021 9:03,Anton Akhmerov
+ test_linsolve.py,10/18/2021 15:03,MODIFY,10/18/2021 9:03,Anton Akhmerov
+ test_svds.py,10/18/2021 15:03,MODIFY,10/18/2021 9:03,Anton Akhmerov
+ test_iterative.py,10/18/2021 15:03,MODIFY,10/18/2021 9:03,Anton Akhmerov
+ test_onenormest.py,10/18/2021 15:03,MODIFY,10/18/2021 9:03,Anton Akhmerov
+ test_pydata_sparse.py,10/18/2021 15:03,MODIFY,10/18/2021 9:03,Anton Akhmerov
+ test_base.py,10/18/2021 15:03,MODIFY,10/18/2021 9:03,Anton Akhmerov
+ test_construct.py,10/18/2021 15:03,MODIFY,10/18/2021 9:03,Anton Akhmerov
+ test_sparsetools.py,10/18/2021 15:03,MODIFY,10/18/2021 9:03,Anton Akhmerov
+ test_spfuncs.py,10/18/2021 15:03,MODIFY,10/18/2021 9:03,Anton Akhmerov
+ test_kdtree.py,10/18/2021 15:03,MODIFY,10/18/2021 9:03,Anton Akhmerov
+ test_optimize.py,10/19/2021 10:28,MODIFY,10/19/2021 10:28,Andrew Nelson
+ test_optimize.py,10/19/2021 11:37,MODIFY,10/19/2021 11:37,Andrew Nelson
+ test_decomp.py,10/19/2021 8:05,MODIFY,10/19/2021 8:05,Smit-create
+ test_orthogonal.py,10/20/2021 8:58,MODIFY,10/20/2021 8:58,Smit-create
+ test_orthogonal_eval.py,10/20/2021 8:58,MODIFY,10/20/2021 8:58,Smit-create
+ test_iterative.py,10/21/2021 3:19,MODIFY,10/20/2021 21:19,zhaog6
+ test_cythonized_array_utils.py,10/21/2021 11:36,MODIFY,10/21/2021 11:36,Ilhan Polat
+ test_axis_nan_policy.py,10/22/2021 9:40,MODIFY,10/22/2021 9:40,Smit-create
+ test_continuous_basic.py,10/22/2021 9:40,MODIFY,10/22/2021 9:40,Smit-create
+ test_kdeoth.py,10/22/2021 9:40,MODIFY,10/22/2021 9:40,Smit-create
+ test_morestats.py,10/22/2021 9:40,MODIFY,10/22/2021 9:40,Smit-create
+ test_mstats_basic.py,10/22/2021 9:40,MODIFY,10/22/2021 9:40,Smit-create
+ test_stats.py,10/22/2021 9:40,MODIFY,10/22/2021 9:40,Smit-create
+ test_codata.py,10/24/2021 9:31,MODIFY,10/24/2021 9:31,Smit-create
+ test_real_transforms.py,10/25/2021 12:30,MODIFY,10/25/2021 12:30,Smit-create
+ test_construct.py,10/25/2021 20:13,MODIFY,10/25/2021 14:13,ParticularMiner
+ test_optimize.py,10/26/2021 19:53,MODIFY,10/26/2021 12:53,Atsushi Sakai
+ test_lgmres.py,10/26/2021 23:32,MODIFY,10/26/2021 23:32,Ross Barnowski
+ test_mstats_basic.py,10/27/2021 15:37,MODIFY,10/27/2021 18:55,nullptr
+ test_gcrotmk.py,10/27/2021 18:18,MODIFY,10/27/2021 18:18,Ross Barnowski
+ test_doccer.py,10/28/2021 10:58,MODIFY,10/28/2021 10:58,Smit-create
+ test_fitpack.py,10/27/2021 15:30,MODIFY,10/28/2021 12:43,Gagandeep Singh
+ test_fitpack2.py,10/27/2021 15:30,MODIFY,10/28/2021 12:43,Gagandeep Singh
+ test_rbf.py,10/27/2021 15:30,MODIFY,10/28/2021 12:43,Gagandeep Singh
+ test_stats.py,10/28/2021 12:06,MODIFY,10/28/2021 12:06,qbarthelemy
+ test_fortran_format.py,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ test_hb.py,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ test3dmatrix_6.1_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ test3dmatrix_6.5.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ test3dmatrix_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ test3dmatrix_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ test_empty_struct.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ test_mat4_le_floats.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ test_skip_variable.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testbool_8_WIN64.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testcell_6.1_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testcell_6.5.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testcell_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testcell_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testcellnest_6.1_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testcellnest_6.5.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testcellnest_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testcellnest_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testcomplex_4.2c_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testcomplex_6.1_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testcomplex_6.5.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testcomplex_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testcomplex_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testdouble_4.2c_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testdouble_6.1_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testdouble_6.5.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testdouble_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testdouble_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testemptycell_5.3_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testemptycell_6.5.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testemptycell_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testemptycell_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testfunc_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testhdf5_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testmatrix_4.2c_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testmatrix_6.1_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testmatrix_6.5.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testmatrix_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testmatrix_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testminus_4.2c_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testminus_6.1_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testminus_6.5.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testminus_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testminus_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testmulti_4.2c_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testmulti_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testmulti_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testobject_6.1_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testobject_6.5.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testobject_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testobject_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testonechar_4.2c_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testonechar_6.1_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testonechar_6.5.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testonechar_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testonechar_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testscalarcell_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testsimplecell.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testsparse_4.2c_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testsparse_6.1_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testsparse_6.5.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testsparse_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testsparse_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testsparsecomplex_4.2c_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testsparsecomplex_6.1_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testsparsecomplex_6.5.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testsparsecomplex_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testsparsecomplex_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testsparsefloat_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststring_4.2c_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststring_6.1_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststring_6.5.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststring_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststring_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststringarray_4.2c_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststringarray_6.1_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststringarray_6.5.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststringarray_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststringarray_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststruct_6.1_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststruct_6.5.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststruct_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststruct_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststructarr_6.1_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststructarr_6.5.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststructarr_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststructarr_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststructnest_6.1_SOL2.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststructnest_6.5.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststructnest_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ teststructnest_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testunicode_7.1_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testunicode_7.4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ testvec_4_GLNX86.mat,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ test_byteordercodes.py,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ test_mio.py,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ test_mio5_utils.py,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ test_mio_funcs.py,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ test_mio_utils.py,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ test_miobase.py,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ test_pathological.py,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ test_streams.py,10/29/2021 10:57,RENAME,10/29/2021 10:57,Smit-create
+ test_iterative.py,10/29/2021 10:22,MODIFY,10/29/2021 10:22,Ross Barnowski
+ test_lsqr.py,10/29/2021 10:38,MODIFY,10/29/2021 10:38,Ross Barnowski
+ test_lsqr.py,10/29/2021 10:39,MODIFY,10/29/2021 10:39,Ross Barnowski
+ test_lobpcg.py,10/29/2021 18:49,MODIFY,10/30/2021 0:49,Andrew Knyazev
+ test_distributions.py,10/30/2021 4:01,MODIFY,10/29/2021 20:01,Ralf Gommers
+ test_fortran_format.py,10/30/2021 10:10,MODIFY,10/30/2021 10:10,Smit-create
+ test_byteordercodes.py,10/30/2021 10:10,MODIFY,10/30/2021 10:10,Smit-create
+ test_mio.py,10/30/2021 10:10,MODIFY,10/30/2021 10:10,Smit-create
+ test_mio5_utils.py,10/30/2021 10:10,MODIFY,10/30/2021 10:10,Smit-create
+ test_mio_funcs.py,10/30/2021 10:10,MODIFY,10/30/2021 10:10,Smit-create
+ test_mio_utils.py,10/30/2021 10:10,MODIFY,10/30/2021 10:10,Smit-create
+ test_miobase.py,10/30/2021 10:10,MODIFY,10/30/2021 10:10,Smit-create
+ test_pathological.py,10/30/2021 10:10,MODIFY,10/30/2021 10:10,Smit-create
+ test_streams.py,10/30/2021 10:10,MODIFY,10/30/2021 10:10,Smit-create
+ test_arffread.py,10/30/2021 10:10,MODIFY,10/30/2021 10:10,Smit-create
+ test_idl.py,10/30/2021 10:10,MODIFY,10/30/2021 10:10,Smit-create
+ test_mmio.py,10/30/2021 10:10,MODIFY,10/30/2021 10:10,Smit-create
+ test_netcdf.py,10/30/2021 10:10,MODIFY,10/30/2021 10:10,Smit-create
+ test_paths.py,10/30/2021 10:10,MODIFY,10/30/2021 10:10,Smit-create
+ test__basinhopping.py,10/29/2021 22:57,MODIFY,10/30/2021 16:07,Atsushi Sakai
+ test__basinhopping.py,10/30/2021 16:07,MODIFY,10/30/2021 16:07,Atsushi Sakai
+ test_optimize.py,10/30/2021 16:07,MODIFY,10/30/2021 16:07,Atsushi Sakai
+ test_interpnd.py,10/30/2021 0:03,MODIFY,10/30/2021 12:33,Gagandeep Singh
+ test_kdtree.py,10/30/2021 0:03,MODIFY,10/30/2021 12:33,Gagandeep Singh
+ test_qhull.py,10/30/2021 0:03,MODIFY,10/30/2021 12:33,Gagandeep Singh
+ test_linsolve.py,10/30/2021 14:31,MODIFY,10/30/2021 14:31,Ross Barnowski
+ test_vq.py,10/31/2021 0:30,MODIFY,11/1/2021 12:24,Gagandeep Singh
+ test_interpolate.py,10/31/2021 0:30,MODIFY,11/1/2021 12:24,Gagandeep Singh
+ test_decomp.py,10/31/2021 0:30,MODIFY,11/1/2021 12:24,Gagandeep Singh
+ test_procrustes.py,10/31/2021 0:30,MODIFY,11/1/2021 12:24,Gagandeep Singh
+ test_solvers.py,10/31/2021 0:30,MODIFY,11/1/2021 12:24,Gagandeep Singh
+ test_linear_assignment.py,10/31/2021 0:30,MODIFY,11/1/2021 12:24,Gagandeep Singh
+ test_tnc.py,10/31/2021 0:30,MODIFY,11/1/2021 12:24,Gagandeep Singh
+ test_ltisys.py,10/31/2021 0:30,MODIFY,11/1/2021 12:24,Gagandeep Singh
+ test_interface.py,10/31/2021 0:30,MODIFY,11/1/2021 12:24,Gagandeep Singh
+ test_matfuncs.py,10/31/2021 0:30,MODIFY,11/1/2021 12:24,Gagandeep Singh
+ test_base.py,10/31/2021 0:30,MODIFY,11/1/2021 12:24,Gagandeep Singh
+ test_construct.py,10/31/2021 0:30,MODIFY,11/1/2021 12:24,Gagandeep Singh
+ test_extract.py,10/31/2021 0:30,MODIFY,11/1/2021 12:24,Gagandeep Singh
+ test_sparsetools.py,10/31/2021 0:30,MODIFY,11/1/2021 12:24,Gagandeep Singh
+ test_spfuncs.py,10/31/2021 0:30,MODIFY,11/1/2021 12:24,Gagandeep Singh
+ test_sputils.py,10/31/2021 0:30,MODIFY,11/1/2021 12:24,Gagandeep Singh
+ test_stats.py,10/31/2021 0:30,MODIFY,11/1/2021 12:24,Gagandeep Singh
+ test_qmc.py,11/2/2021 4:29,MODIFY,11/2/2021 9:29,Reshama Shaikh
+ test_bsplines.py,11/2/2021 15:14,MODIFY,11/2/2021 15:14,Smit-create
+ test_filter_design.py,11/2/2021 15:14,MODIFY,11/2/2021 15:14,Smit-create
+ test_ltisys.py,11/2/2021 15:14,MODIFY,11/2/2021 15:14,Smit-create
+ test_signaltools.py,11/2/2021 15:14,MODIFY,11/2/2021 15:14,Smit-create
+ test_spectral.py,11/2/2021 15:14,MODIFY,11/2/2021 15:14,Smit-create
+ test_waveforms.py,11/2/2021 15:14,MODIFY,11/2/2021 15:14,Smit-create
+ test_wavelets.py,11/2/2021 15:14,MODIFY,11/2/2021 15:14,Smit-create
+ test_discrete_distns.py,11/2/2021 15:04,MODIFY,11/2/2021 7:04,Pamphile ROY
+ test_iterative.py,11/3/2021 17:48,MODIFY,11/3/2021 10:48,zhaog6
+ test_minres.py,11/3/2021 17:48,MODIFY,11/3/2021 10:48,zhaog6
+ test_bootstrap.py,11/4/2021 10:56,MODIFY,11/4/2021 23:14,Matt Haberland
+ test_linesearch.py,11/2/2021 14:52,MODIFY,11/5/2021 23:04,Gagandeep Singh
+ test_minpack.py,11/2/2021 14:52,MODIFY,11/5/2021 23:04,Gagandeep Singh
+ test_nonlin.py,11/2/2021 14:52,MODIFY,11/5/2021 23:04,Gagandeep Singh
+ test_optimize.py,11/2/2021 14:52,MODIFY,11/5/2021 23:04,Gagandeep Singh
+ test_tnc.py,11/2/2021 14:52,MODIFY,11/5/2021 23:04,Gagandeep Singh
+ test_zeros.py,11/2/2021 14:52,MODIFY,11/5/2021 23:04,Gagandeep Singh
+ test_sampling.py,11/6/2021 12:56,MODIFY,11/6/2021 8:38,Tirth Patel
+ test_stats.py,11/6/2021 12:56,MODIFY,11/6/2021 8:38,Tirth Patel
+ test_stats.py,10/30/2021 14:03,MODIFY,11/6/2021 18:37,Pamphile ROY
+ test_distributions.py,11/8/2021 21:14,MODIFY,11/8/2021 16:56,Tirth Patel
+ test_sampling.py,11/9/2021 2:56,MODIFY,11/8/2021 19:56,Kai
+ test_build.py,11/10/2021 7:48,DELETE,11/10/2021 7:48,Ralf Gommers
+ test__numdiff.py,12/23/2019 11:56,MODIFY,11/10/2021 18:31,Andrew Nelson
+ test_least_squares.py,12/23/2019 11:56,MODIFY,11/10/2021 18:31,Andrew Nelson
+ test_tnc.py,10/19/2021 17:12,MODIFY,11/10/2021 19:14,Andrew Nelson
+ test__numdiff.py,11/10/2021 19:27,MODIFY,11/10/2021 19:27,Andrew Nelson
+ test_morestats.py,11/10/2021 6:19,MODIFY,11/10/2021 14:19,Nicholas McKibben
+ test_optimize.py,11/11/2021 12:48,MODIFY,11/11/2021 12:48,Andrew Nelson
+ test_optimize.py,11/11/2021 13:53,MODIFY,11/11/2021 13:53,Andrew Nelson
+ test_optimize.py,11/11/2021 18:45,MODIFY,11/11/2021 18:45,Andrew Nelson
+ test_trustregion.py,11/11/2021 18:45,MODIFY,11/11/2021 18:45,Andrew Nelson
+ test_lsmr.py,11/11/2021 17:54,MODIFY,11/11/2021 10:54,zhaog6
+ test__basinhopping.py,11/11/2021 22:14,MODIFY,11/11/2021 22:14,Atsushi Sakai
+ test_mio.py,11/11/2021 13:21,MODIFY,11/11/2021 19:21,Eric Larson
+ test_optimize.py,10/14/2021 22:29,MODIFY,11/12/2021 15:21,Atsushi Sakai
+ test_optimize.py,11/12/2021 19:22,MODIFY,11/12/2021 19:22,Andrew Nelson
+ test_optimize.py,11/12/2021 19:34,MODIFY,11/12/2021 19:34,Andrew Nelson
+ test_linsolve.py,11/12/2021 20:54,RENAME,11/12/2021 20:54,Smit-create
+ test_arpack.py,11/12/2021 20:54,RENAME,11/12/2021 20:54,Smit-create
+ test_lobpcg.py,11/12/2021 20:54,RENAME,11/12/2021 20:54,Smit-create
+ test_svds.py,11/12/2021 20:54,RENAME,11/12/2021 20:54,Smit-create
+ test_gcrotmk.py,11/12/2021 20:54,RENAME,11/12/2021 20:54,Smit-create
+ test_iterative.py,11/12/2021 20:54,RENAME,11/12/2021 20:54,Smit-create
+ test_lgmres.py,11/12/2021 20:54,RENAME,11/12/2021 20:54,Smit-create
+ test_lsmr.py,11/12/2021 20:54,RENAME,11/12/2021 20:54,Smit-create
+ test_lsqr.py,11/12/2021 20:54,RENAME,11/12/2021 20:54,Smit-create
+ test_minres.py,11/12/2021 20:54,RENAME,11/12/2021 20:54,Smit-create
+ test_utils.py,11/12/2021 20:54,RENAME,11/12/2021 20:54,Smit-create
+ test_linsolve.py,11/13/2021 15:13,MODIFY,11/13/2021 15:13,Smit-create
+ test_arpack.py,11/13/2021 15:13,MODIFY,11/13/2021 15:13,Smit-create
+ test_lobpcg.py,11/13/2021 15:13,MODIFY,11/13/2021 15:13,Smit-create
+ test_svds.py,11/13/2021 15:13,MODIFY,11/13/2021 15:13,Smit-create
+ test_gcrotmk.py,11/13/2021 15:13,MODIFY,11/13/2021 15:13,Smit-create
+ test_iterative.py,11/13/2021 15:13,MODIFY,11/13/2021 15:13,Smit-create
+ test_lgmres.py,11/13/2021 15:13,MODIFY,11/13/2021 15:13,Smit-create
+ test_lsmr.py,11/13/2021 15:13,MODIFY,11/13/2021 15:13,Smit-create
+ test_minres.py,11/13/2021 15:13,MODIFY,11/13/2021 15:13,Smit-create
+ test_interface.py,11/13/2021 15:13,MODIFY,11/13/2021 15:13,Smit-create
+ test_matfuncs.py,11/13/2021 15:13,MODIFY,11/13/2021 15:13,Smit-create
+ test_public_api.py,11/15/2021 10:06,ADD,11/15/2021 10:06,Smit-create
+ test_utils.py,11/15/2021 11:04,MODIFY,11/15/2021 11:04,Smit-create
+ test_array_api.py,10/7/2021 23:51,ADD,11/15/2021 16:15,Stefan van der Walt
+ test_array_api.py,11/4/2021 22:39,MODIFY,11/15/2021 16:15,Stefan van der Walt
+ test_array_api.py,11/5/2021 0:14,MODIFY,11/15/2021 16:15,Stefan van der Walt
+ test_array_api.py,11/5/2021 0:20,MODIFY,11/15/2021 16:15,Stefan van der Walt
+ test_array_api.py,11/6/2021 10:58,MODIFY,11/15/2021 16:15,Stefan van der Walt
+ test_array_api.py,11/6/2021 13:05,MODIFY,11/15/2021 16:15,Stefan van der Walt
+ test_array_api.py,11/8/2021 16:53,MODIFY,11/15/2021 16:15,Stefan van der Walt
+ test_array_api.py,11/16/2021 15:15,MODIFY,11/16/2021 15:15,Stefan van der Walt
+ test_lobpcg.py,11/17/2021 18:27,MODIFY,11/17/2021 18:27,H. Vetinari
+ test_optimize.py,11/17/2021 18:43,MODIFY,11/17/2021 18:43,H. Vetinari
+ test_distance.py,11/17/2021 20:10,MODIFY,11/18/2021 8:50,H. Vetinari
+ test_distance.py,11/17/2021 20:12,MODIFY,11/18/2021 8:50,H. Vetinari
+ test_public_api.py,11/18/2021 11:26,MODIFY,11/18/2021 11:26,Smit-create
+ test_base.py,8/6/2021 15:37,MODIFY,11/18/2021 22:44,CJ Carey
+ test_mio.py,11/19/2021 18:55,MODIFY,11/19/2021 19:04,Ralf Gommers
+ test_public_api.py,11/19/2021 19:21,MODIFY,11/19/2021 19:21,Ralf Gommers
+ test_stats.py,11/22/2021 7:44,MODIFY,11/22/2021 7:44,Ralf Gommers
+ test_sampling.py,11/23/2021 4:21,MODIFY,11/23/2021 8:39,Christoph Baumgarten
+ test3dmatrix_6.1_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ test3dmatrix_6.5.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ test3dmatrix_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ test3dmatrix_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ test_empty_struct.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ test_mat4_le_floats.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ test_skip_variable.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testbool_8_WIN64.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testcell_6.1_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testcell_6.5.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testcell_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testcell_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testcellnest_6.1_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testcellnest_6.5.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testcellnest_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testcellnest_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testcomplex_4.2c_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testcomplex_6.1_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testcomplex_6.5.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testcomplex_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testcomplex_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testdouble_4.2c_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testdouble_6.1_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testdouble_6.5.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testdouble_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testdouble_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testemptycell_5.3_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testemptycell_6.5.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testemptycell_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testemptycell_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testfunc_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testhdf5_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testmatrix_4.2c_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testmatrix_6.1_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testmatrix_6.5.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testmatrix_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testmatrix_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testminus_4.2c_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testminus_6.1_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testminus_6.5.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testminus_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testminus_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testmulti_4.2c_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testmulti_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testmulti_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testobject_6.1_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testobject_6.5.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testobject_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testobject_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testonechar_4.2c_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testonechar_6.1_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testonechar_6.5.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testonechar_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testonechar_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testscalarcell_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testsimplecell.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testsparse_4.2c_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testsparse_6.1_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testsparse_6.5.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testsparse_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testsparse_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testsparsecomplex_4.2c_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testsparsecomplex_6.1_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testsparsecomplex_6.5.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testsparsecomplex_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testsparsecomplex_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testsparsefloat_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststring_4.2c_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststring_6.1_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststring_6.5.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststring_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststring_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststringarray_4.2c_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststringarray_6.1_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststringarray_6.5.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststringarray_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststringarray_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststruct_6.1_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststruct_6.5.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststruct_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststruct_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststructarr_6.1_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststructarr_6.5.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststructarr_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststructarr_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststructnest_6.1_SOL2.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststructnest_6.5.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststructnest_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ teststructnest_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testunicode_7.1_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testunicode_7.4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ testvec_4_GLNX86.mat,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ test_byteordercodes.py,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ test_mio.py,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ test_mio5_utils.py,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ test_mio_funcs.py,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ test_mio_utils.py,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ test_miobase.py,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ test_pathological.py,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ test_streams.py,11/23/2021 9:18,RENAME,11/23/2021 9:18,Smit-create
+ test_public_api.py,11/23/2021 13:23,MODIFY,11/23/2021 13:23,Smit-create
+ test_byteordercodes.py,11/23/2021 13:23,MODIFY,11/23/2021 13:23,Smit-create
+ test_mio.py,11/23/2021 13:23,MODIFY,11/23/2021 13:23,Smit-create
+ test_mio5_utils.py,11/23/2021 13:23,MODIFY,11/23/2021 13:23,Smit-create
+ test_mio_funcs.py,11/23/2021 13:23,MODIFY,11/23/2021 13:23,Smit-create
+ test_mio_utils.py,11/23/2021 13:23,MODIFY,11/23/2021 13:23,Smit-create
+ test_miobase.py,11/23/2021 13:23,MODIFY,11/23/2021 13:23,Smit-create
+ test_pathological.py,11/23/2021 13:23,MODIFY,11/23/2021 13:23,Smit-create
+ test_streams.py,11/23/2021 13:23,MODIFY,11/23/2021 13:23,Smit-create
+ test_qmc.py,11/23/2021 9:57,MODIFY,11/23/2021 9:57,Pamphile ROY
+ test_distance.py,11/23/2021 19:18,MODIFY,11/23/2021 19:18,Kai Striega
+ test_distance.py,11/24/2021 9:19,MODIFY,11/24/2021 9:19,Kai Striega
+ test_distance.py,11/24/2021 11:27,MODIFY,11/24/2021 11:27,Kai Striega
+ test_differentiable_functions.py,11/25/2021 11:22,MODIFY,11/25/2021 11:22,Andrew Nelson
+ test_distance.py,11/25/2021 11:17,MODIFY,11/25/2021 11:17,Kai Striega
+ test_distance.py,11/17/2021 23:20,MODIFY,11/25/2021 22:44,H. Vetinari
+ test_distance.py,11/18/2021 0:33,MODIFY,11/25/2021 22:45,H. Vetinari
+ test_real_transforms.py,11/25/2021 19:54,MODIFY,11/25/2021 21:00,Peter Bell
+ test_real_transforms.py,11/25/2021 21:07,MODIFY,11/25/2021 21:07,Peter Bell
+ test_public_api.py,11/26/2021 2:46,MODIFY,11/25/2021 22:28,Tirth Patel
+ test_sampling.py,11/26/2021 2:46,MODIFY,11/25/2021 22:28,Tirth Patel
+ test_sampling.py,11/27/2021 12:45,MODIFY,11/27/2021 12:45,baumgarc
+ test_cython_special.py,11/27/2021 9:39,MODIFY,11/27/2021 12:44,warren
+ test_logit.py,11/27/2021 9:39,MODIFY,11/27/2021 12:44,warren
+ test_distributions.py,11/27/2021 10:52,MODIFY,11/27/2021 12:44,warren
+ test_distributions.py,11/29/2021 0:31,MODIFY,11/28/2021 11:13,Namami Shanker
+ test_hyp2f1.py,11/29/2021 22:14,MODIFY,11/29/2021 19:14,Albert Steppi
+ test_basic.py,11/30/2021 4:15,MODIFY,11/29/2021 19:15,Nico Schlömer
+ test_public_api.py,11/30/2021 10:42,MODIFY,11/30/2021 6:24,Smit Lunagariya
+ test_public_api.py,11/30/2021 10:55,MODIFY,11/30/2021 6:37,Smit Lunagariya
+ test_filter_design.py,11/30/2021 21:50,MODIFY,11/30/2021 14:50,Rory Yorke
+ test_filter_design.py,12/1/2021 0:03,MODIFY,11/30/2021 17:03,Rory Yorke
+ test_distributions.py,12/1/2021 19:44,MODIFY,12/1/2021 10:44,Christoph Baumgarten
+ test_distance.py,12/2/2021 9:55,MODIFY,12/2/2021 9:55,Kai Striega
+ test_distance.py,12/2/2021 10:08,MODIFY,12/2/2021 10:08,Kai Striega
+ test_basic.py,7/23/2019 15:09,MODIFY,12/1/2021 21:57,Cong Ma
+ test_cython_special.py,7/23/2019 15:09,MODIFY,12/1/2021 21:57,Cong Ma
+ test_data.py,7/23/2019 15:09,MODIFY,12/1/2021 21:57,Cong Ma
+ test_basic.py,8/16/2019 13:44,MODIFY,12/1/2021 22:00,Cong Ma
+ test_data.py,8/16/2019 13:44,MODIFY,12/1/2021 22:00,Cong Ma
+ test_basic.py,11/25/2020 17:18,MODIFY,12/1/2021 22:02,Leo C. Stein
+ test_distance.py,12/2/2021 12:44,MODIFY,12/2/2021 12:44,Kai Striega
+ test_distance.py,12/2/2021 16:23,MODIFY,12/2/2021 16:23,Kai Striega
+ test_sampling.py,12/2/2021 14:40,MODIFY,12/2/2021 15:16,Tirth Patel
+ test_svds.py,12/2/2021 16:37,MODIFY,12/2/2021 12:19,Smit Lunagariya
+ test_paths.py,12/2/2021 7:43,MODIFY,12/2/2021 7:43,warren
+ test_interpolative.py,12/2/2021 7:43,MODIFY,12/2/2021 7:43,warren
+ test_linear_assignment.py,12/2/2021 7:43,MODIFY,12/2/2021 7:43,warren
+ test_minimize_constrained.py,12/2/2021 7:43,MODIFY,12/2/2021 7:43,warren
+ test_trustregion.py,12/2/2021 7:43,MODIFY,12/2/2021 7:43,warren
+ test_bsplines.py,12/2/2021 7:43,MODIFY,12/2/2021 7:43,warren
+ test_filter_design.py,12/2/2021 7:43,MODIFY,12/2/2021 7:43,warren
+ test_result_type.py,12/2/2021 7:43,MODIFY,12/2/2021 7:43,warren
+ test_interface.py,12/2/2021 7:43,MODIFY,12/2/2021 7:43,warren
+ test_sampling.py,12/2/2021 7:43,MODIFY,12/2/2021 7:43,warren
+ test_stats.py,12/2/2021 7:43,MODIFY,12/2/2021 7:43,warren
+ test_czt.py,12/2/2021 12:12,ADD,12/2/2021 12:12,endolith
+ test_savitzky_golay.py,12/2/2021 22:40,MODIFY,12/2/2021 22:40,Gagandeep Singh
+ test_savitzky_golay.py,12/4/2021 14:47,MODIFY,12/4/2021 14:47,Gagandeep Singh
+ test_stats.py,12/5/2021 19:24,MODIFY,12/5/2021 17:24,Warren Weckesser
+ test_variation.py,12/5/2021 19:24,ADD,12/5/2021 17:24,Warren Weckesser
+ test__dual_annealing.py,12/6/2021 16:25,MODIFY,12/6/2021 16:25,Nick Papior
+ test_hypotests.py,12/6/2021 8:04,MODIFY,12/6/2021 17:04,Matt Haberland
+ test_filter_design.py,12/6/2021 13:18,MODIFY,12/6/2021 13:18,guiweber
+ test_cobyla.py,12/6/2021 11:50,MODIFY,12/6/2021 19:50,Tyler Reddy
+ test_optimize.py,12/6/2021 11:50,MODIFY,12/6/2021 19:50,Tyler Reddy
+ test_decomp.py,12/8/2021 10:13,MODIFY,12/8/2021 10:13,warren
+ test_linprog.py,12/8/2021 10:13,MODIFY,12/8/2021 10:13,warren
+ test_iterative.py,12/9/2021 10:50,MODIFY,12/9/2021 10:50,Gang Zhao
+ test_fftlog.py,12/9/2021 12:10,MODIFY,12/9/2021 12:10,warren
+ test_shortest_path.py,12/9/2021 12:10,MODIFY,12/9/2021 12:10,warren
+ test_real_transforms.py,12/9/2021 19:09,MODIFY,12/9/2021 21:22,Weh Andreas
+ test_continuous_basic.py,12/9/2021 15:29,MODIFY,12/9/2021 19:08,warren
+ test_distributions.py,12/9/2021 15:29,MODIFY,12/9/2021 19:08,warren
+ test_continuous_basic.py,12/9/2021 20:23,MODIFY,12/9/2021 21:30,warren
+ test_distributions.py,12/9/2021 20:23,MODIFY,12/9/2021 21:30,warren
+ test_continuous_basic.py,12/12/2021 20:42,MODIFY,12/12/2021 20:42,warren
+ test_orthogonal_eval.py,12/7/2021 21:00,MODIFY,12/13/2021 10:47,warren
+ test_idl.py,12/14/2021 9:50,MODIFY,12/14/2021 12:50,Craig Citro
+ test_propack.py,12/14/2021 13:33,MODIFY,12/14/2021 13:33,Matt Haberland
+ test_stats.py,12/14/2021 15:05,MODIFY,12/14/2021 15:05,Matt Haberland
+ test_propack.py,12/14/2021 15:06,MODIFY,12/14/2021 15:06,Matt Haberland
+ test_propack.py,12/14/2021 16:11,MODIFY,12/14/2021 16:11,Matt Haberland
+ test_stats.py,12/14/2021 19:05,MODIFY,12/14/2021 19:05,Matt Haberland
+ test_array_api.py,12/16/2021 15:01,MODIFY,12/16/2021 15:01,Stefan van der Walt
+ test_base.py,12/17/2021 15:05,MODIFY,12/17/2021 1:05,Masayuki Takagi
+ test_optimize.py,12/18/2021 3:23,MODIFY,12/17/2021 9:23,Andrew Nelson
+ test_continuous_basic.py,12/18/2021 20:42,MODIFY,12/18/2021 7:24,Smit Lunagariya
+ test_distributions.py,12/18/2021 19:31,MODIFY,12/18/2021 14:31,Blair Azzopardi
+ test_filter_design.py,12/20/2021 14:37,MODIFY,12/20/2021 14:49,Tyler Reddy
+ test_base.py,12/20/2021 14:37,MODIFY,12/20/2021 14:49,Tyler Reddy
+ test_mpmath.py,12/20/2021 14:37,MODIFY,12/20/2021 14:49,Tyler Reddy
+ test_axis_nan_policy.py,12/20/2021 21:02,MODIFY,12/21/2021 10:20,Matt Haberland
+ test_continuous_basic.py,12/16/2021 20:56,MODIFY,12/23/2021 7:47,Matt Haberland
+ test_fit.py,12/16/2021 20:56,MODIFY,12/23/2021 7:47,Matt Haberland
+ test_hypotests.py,12/16/2021 20:56,MODIFY,12/23/2021 7:47,Matt Haberland
+ test_mstats_basic.py,12/16/2021 20:56,MODIFY,12/23/2021 7:47,Matt Haberland
+ test_stats.py,12/16/2021 20:56,MODIFY,12/23/2021 7:47,Matt Haberland
+ test_lobpcg.py,12/23/2021 18:28,MODIFY,12/23/2021 18:28,Ralf Gommers
+ test_axis_nan_policy.py,12/25/2021 10:06,MODIFY,12/25/2021 23:24,Matt Haberland
+ test_ltisys.py,12/26/2021 11:57,MODIFY,12/26/2021 12:17,Ralf Gommers
+ test_linprog.py,12/26/2021 11:35,MODIFY,12/26/2021 10:35,Nicholas McKibben
+ test_continuous_basic.py,12/28/2021 6:03,MODIFY,12/27/2021 16:45,Smit Lunagariya
+ test_cdft_asymptotic.py,12/28/2021 7:30,ADD,12/27/2021 18:12,Tirth Patel
+ test_hausdorff.py,12/27/2021 18:02,MODIFY,12/27/2021 19:51,Tyler Reddy
+ test_constraints.py,12/27/2021 22:24,MODIFY,12/27/2021 22:24,Matt Haberland
+ test_cobyla.py,12/27/2021 23:33,MODIFY,12/27/2021 23:33,Matt Haberland
+ test_constraints.py,12/27/2021 23:33,MODIFY,12/27/2021 23:33,Matt Haberland
+ test_tnc.py,12/27/2021 23:33,MODIFY,12/27/2021 23:33,Matt Haberland
+ test_constraints.py,12/27/2021 23:49,MODIFY,12/27/2021 23:49,Matt Haberland
+ test_constraints.py,12/27/2021 23:53,MODIFY,12/27/2021 23:53,Matt Haberland
+ test_netcdf.py,12/28/2021 17:12,MODIFY,12/28/2021 17:12,Matthias Bussonnier
+ test_constraints.py,12/28/2021 21:34,MODIFY,12/28/2021 21:34,Matt Haberland
+ test_continuous_basic.py,10/12/2021 21:11,MODIFY,12/29/2021 19:45,Gagandeep Singh
+ test_backend.py,12/24/2021 16:31,MODIFY,12/29/2021 21:27,Ralf Gommers
+ test_hyp2f1.py,12/24/2021 16:31,MODIFY,12/29/2021 21:27,Ralf Gommers
+ test_owens_t.py,12/30/2021 6:28,MODIFY,12/29/2021 20:10,Namami Shanker
+ test_basic.py,12/30/2021 9:02,MODIFY,12/30/2021 9:02,warren
+ test_lobpcg.py,12/31/2021 14:42,MODIFY,12/31/2021 14:42,Ralf Gommers
+ test_svds.py,12/31/2021 14:42,MODIFY,12/31/2021 14:42,Ralf Gommers
+ test_lsqr.py,12/31/2021 14:42,MODIFY,12/31/2021 14:42,Ralf Gommers
+ test_propack.py,12/31/2021 14:42,MODIFY,12/31/2021 14:42,Ralf Gommers
+ test_discrete_distns.py,12/31/2021 18:09,MODIFY,12/31/2021 20:36,Ralf Gommers
+ test_warnings.py,12/31/2021 20:23,MODIFY,12/31/2021 20:41,Ralf Gommers
+ test_distributions.py,1/1/2022 2:05,MODIFY,12/31/2021 12:47,Tirth Patel
+ test_minpack.py,1/1/2022 21:38,MODIFY,1/2/2022 12:31,Atsushi Sakai
+ test_minpack.py,1/2/2022 7:16,MODIFY,1/2/2022 12:31,Atsushi Sakai
+ test_linprog.py,1/3/2022 3:27,MODIFY,1/2/2022 18:27,Jonathan Helgert
+ test_graph_laplacian.py,1/3/2022 16:49,MODIFY,1/3/2022 22:49,Andrew Knyazev
+ test_hyp2f1.py,1/4/2022 0:21,MODIFY,1/3/2022 21:21,Albert Steppi
+ test_windows.py,1/5/2022 22:03,MODIFY,1/5/2022 14:03,Atsushi Sakai
+ test_optimize.py,1/5/2022 22:35,MODIFY,1/5/2022 14:35,Atsushi Sakai
+ test_trustregion.py,1/5/2022 22:35,MODIFY,1/5/2022 14:35,Atsushi Sakai
+ test_filter_design.py,1/5/2022 22:35,MODIFY,1/5/2022 14:35,Atsushi Sakai
+ test_basic.py,1/5/2022 22:35,MODIFY,1/5/2022 14:35,Atsushi Sakai
+ test_stats.py,1/7/2022 14:55,MODIFY,1/7/2022 14:55,Quentin Barthélemy
+ test_public_api.py,1/7/2022 8:25,MODIFY,1/7/2022 17:25,Stefan van der Walt
+ test_fft_function.py,1/7/2022 8:25,MODIFY,1/7/2022 17:25,Stefan van der Walt
+ test__remove_redundancy.py,1/8/2022 0:04,MODIFY,1/7/2022 23:04,Nicholas McKibben
+ test_linprog.py,1/8/2022 0:04,MODIFY,1/7/2022 23:04,Nicholas McKibben
+ test_distributions.py,1/10/2022 13:02,MODIFY,1/10/2022 17:20,Christoph Baumgarten
+ test_signaltools.py,1/10/2022 18:42,MODIFY,1/10/2022 18:42,JuliaMelle01
+ test_constraints.py,12/31/2021 15:18,MODIFY,1/10/2022 23:45,Matt Haberland
+ test_constraints.py,12/31/2021 15:50,MODIFY,1/10/2022 23:45,Matt Haberland
+ test_constraints.py,12/31/2021 15:58,MODIFY,1/10/2022 23:45,Matt Haberland
+ test_stats.py,1/12/2022 1:42,MODIFY,1/11/2022 23:42,siddhantwahal
+ test_axis_nan_policy.py,1/12/2022 1:10,MODIFY,1/12/2022 14:28,Matt Haberland
+ test_stats.py,1/12/2022 1:10,MODIFY,1/12/2022 14:28,Matt Haberland
+ test_axis_nan_policy.py,1/12/2022 13:35,MODIFY,1/12/2022 22:35,Matt Haberland
+ test_stats.py,1/12/2022 13:35,MODIFY,1/12/2022 22:35,Matt Haberland
+ test_iterative.py,1/13/2022 16:48,MODIFY,1/13/2022 16:49,Gang Zhao
+ test_rotation.py,1/13/2022 21:45,MODIFY,1/13/2022 21:45,pmla
+ test_rotation.py,1/14/2022 9:59,MODIFY,1/14/2022 9:59,pmla
+ test_signaltools.py,1/14/2022 17:32,MODIFY,1/14/2022 15:32,Luigi Cruz
+ test__differential_evolution.py,1/15/2022 15:37,MODIFY,1/14/2022 20:37,Andrew Nelson
+ test_continuous_basic.py,1/15/2022 20:59,MODIFY,1/15/2022 7:41,Tirth Patel
+ test_distributions.py,1/15/2022 20:59,MODIFY,1/15/2022 7:41,Tirth Patel
+ test_stats.py,1/16/2022 1:49,MODIFY,1/16/2022 15:07,Matt Haberland
+ test_lobpcg.py,1/16/2022 12:58,MODIFY,1/16/2022 12:58,Andrew Knyazev
+ test_lobpcg.py,1/16/2022 13:02,MODIFY,1/16/2022 13:02,Andrew Knyazev
+ test_qmc.py,1/17/2022 12:03,MODIFY,1/17/2022 12:03,Pamphile Roy
+ test_rotation.py,1/17/2022 20:53,MODIFY,1/17/2022 20:53,Peter Larsen
+ test_rotation.py,1/17/2022 21:11,MODIFY,1/17/2022 21:11,Peter Larsen
+ test_fit.py,1/17/2022 23:32,MODIFY,1/17/2022 23:32,Matt Haberland
+ test_fit.py,1/18/2022 0:46,MODIFY,1/18/2022 0:46,Matt Haberland
+ test_fit.py,1/18/2022 10:57,MODIFY,1/18/2022 10:57,Matt Haberland
+ test_fit.py,1/18/2022 16:08,MODIFY,1/18/2022 16:08,Matt Haberland
+ test_axis_nan_policy.py,1/19/2022 9:05,MODIFY,1/18/2022 19:47,Tirth Patel
+ test_fit.py,1/18/2022 23:56,MODIFY,1/18/2022 23:56,Matt Haberland
+ test_fit.py,1/19/2022 13:53,MODIFY,1/19/2022 13:53,Matt Haberland
+ test_fit.py,1/19/2022 17:07,MODIFY,1/19/2022 17:07,Matt Haberland
+ test_fit.py,1/19/2022 17:18,MODIFY,1/19/2022 17:18,Matt Haberland
+ test_fit.py,1/19/2022 18:26,MODIFY,1/19/2022 18:26,Matt Haberland
+ test_fit.py,1/19/2022 21:04,MODIFY,1/19/2022 21:04,Matt Haberland
+ test_fit.py,1/19/2022 21:08,MODIFY,1/19/2022 21:08,Matt Haberland
+ test__differential_evolution.py,1/21/2022 13:40,MODIFY,1/21/2022 13:40,Andrew Nelson
+ test_fit.py,1/21/2022 0:17,MODIFY,1/21/2022 0:17,Matt Haberland
+ test__differential_evolution.py,1/21/2022 23:40,MODIFY,1/21/2022 23:40,Andrew Nelson
+ test_fit.py,1/21/2022 8:50,MODIFY,1/21/2022 8:50,Matt Haberland
+ test_fit.py,1/21/2022 15:15,MODIFY,1/21/2022 15:15,Matt Haberland
+ test_milp.py,1/22/2022 23:02,ADD,1/22/2022 23:02,Matt Haberland
+ test__differential_evolution.py,1/23/2022 18:28,MODIFY,1/23/2022 18:28,Andrew Nelson
+ test_milp.py,1/23/2022 0:11,MODIFY,1/23/2022 0:11,Matt Haberland
+ test__dual_annealing.py,1/23/2022 16:51,MODIFY,1/23/2022 7:51,dschmitz89
+ test_milp.py,1/23/2022 8:54,MODIFY,1/23/2022 8:54,Matt Haberland
+ test__differential_evolution.py,1/24/2022 9:08,MODIFY,1/24/2022 9:08,Andrew Nelson
+ test__differential_evolution.py,1/24/2022 10:02,MODIFY,1/24/2022 10:02,Andrew Nelson
+ test__differential_evolution.py,1/24/2022 10:14,MODIFY,1/24/2022 10:14,Andrew Nelson
+ test_milp.py,1/24/2022 0:18,MODIFY,1/24/2022 0:18,Matt Haberland
+ test__shgo.py,1/24/2022 11:31,MODIFY,1/24/2022 11:31,dschmitz89
+ test_linprog.py,1/26/2022 1:14,MODIFY,1/26/2022 1:14,Matt Haberland
+ test_linprog.py,1/26/2022 4:14,MODIFY,1/26/2022 4:14,Matt Haberland
+ test_milp.py,1/26/2022 4:55,MODIFY,1/26/2022 4:55,Matt Haberland
+ test_milp.py,1/26/2022 4:58,MODIFY,1/26/2022 4:58,Matt Haberland
+ test_linprog.py,1/26/2022 5:10,MODIFY,1/26/2022 5:10,Matt Haberland
+ test_milp.py,1/26/2022 17:24,MODIFY,1/26/2022 17:24,Matt Haberland
+ test_fit.py,1/26/2022 18:23,MODIFY,1/26/2022 18:23,Matt Haberland
+ test_fit.py,1/26/2022 18:43,MODIFY,1/26/2022 18:43,Matt Haberland
+ test_axis_nan_policy.py,1/27/2022 8:22,MODIFY,1/26/2022 19:04,Tirth Patel
+ test_mstats_basic.py,1/27/2022 8:22,MODIFY,1/26/2022 19:04,Tirth Patel
+ test_milp.py,1/27/2022 9:54,MODIFY,1/27/2022 9:54,Matt Haberland
+ test_milp.py,1/29/2022 18:38,MODIFY,1/29/2022 18:38,Matt Haberland
+ test__shgo.py,1/31/2022 16:39,MODIFY,1/31/2022 7:39,Daniel Schmitz
+ test__differential_evolution.py,2/1/2022 9:25,MODIFY,2/1/2022 9:25,Andrew Nelson
+ test__differential_evolution.py,2/1/2022 9:28,MODIFY,2/1/2022 9:28,Andrew Nelson
+ test_linprog.py,2/2/2022 10:42,MODIFY,2/2/2022 10:42,Matt Haberland
+ test_stats.py,2/3/2022 1:28,MODIFY,2/3/2022 14:46,Matt Haberland
+ test_stats.py,2/3/2022 7:23,MODIFY,2/3/2022 7:23,Matt Haberland
+ test_optimize.py,2/4/2022 10:12,MODIFY,2/3/2022 15:12,Andrew Nelson
+ test_optimize.py,2/3/2022 15:53,MODIFY,2/3/2022 15:53,Matt Haberland
+ test_fit.py,2/3/2022 16:21,MODIFY,2/3/2022 16:21,Matt Haberland
+ test_fit.py,2/4/2022 13:13,MODIFY,2/4/2022 13:13,Matt Haberland
+ test_fit.py,2/4/2022 13:19,MODIFY,2/4/2022 13:19,Matt Haberland
+ test_fit.py,2/4/2022 17:58,MODIFY,2/4/2022 17:58,Matt Haberland
+ test_stats.py,2/6/2022 0:25,MODIFY,2/6/2022 0:25,Matt Haberland
+ test_decomp_ldl.py,2/7/2022 15:06,MODIFY,2/7/2022 15:06,h-vetinari
+ test_milp.py,2/8/2022 15:30,MODIFY,2/8/2022 15:30,Matt Haberland
+ test_linprog.py,2/10/2022 19:27,MODIFY,2/10/2022 8:27,Evgeni Burovski
+ test_bootstrap.py,2/12/2022 10:59,MODIFY,2/12/2022 10:59,Matt Haberland
+ test_fit.py,2/12/2022 12:21,MODIFY,2/12/2022 12:21,Matt Haberland
+ test_fit.py,2/12/2022 12:38,MODIFY,2/12/2022 12:38,Matt Haberland
+ test_stats.py,2/15/2022 16:52,MODIFY,2/15/2022 16:52,Gerrit Ansmann
+ test__differential_evolution.py,2/17/2022 11:46,MODIFY,2/16/2022 16:46,Andrew Nelson
+ test_spectral.py,2/17/2022 17:52,MODIFY,2/17/2022 18:13,Yotaro Kubo
+ test_fit.py,2/17/2022 10:35,MODIFY,2/17/2022 10:35,Matt Haberland
+ test_fit.py,2/17/2022 11:16,MODIFY,2/17/2022 11:16,Matt Haberland
+ test_stats.py,2/20/2022 9:11,MODIFY,2/20/2022 9:11,Matt Haberland
+ test_stats.py,2/21/2022 13:43,MODIFY,2/21/2022 0:25,Tirth Patel
+ test_continuous_basic.py,2/21/2022 10:04,MODIFY,2/21/2022 1:04,Ali Cetin
+ test_distributions.py,2/21/2022 10:04,MODIFY,2/21/2022 1:04,Ali Cetin
+ test_fit.py,2/21/2022 10:04,MODIFY,2/21/2022 1:04,Ali Cetin
+ test_distributions.py,2/22/2022 13:42,MODIFY,2/22/2022 8:42,lutefiskhotdish
+ test_axis_nan_policy.py,2/26/2022 2:03,MODIFY,2/25/2022 12:45,Tirth Patel
+ test_multivariate.py,2/26/2022 20:29,MODIFY,2/26/2022 7:11,Namami Shanker
+ test_axis_nan_policy.py,2/26/2022 20:34,MODIFY,2/26/2022 7:16,srinivasan
+ test_morestats.py,2/27/2022 2:38,MODIFY,2/26/2022 17:38,boussoffara
+ test_morestats.py,2/27/2022 18:10,MODIFY,2/27/2022 10:10,Laurynas
+ test_multivariate.py,2/28/2022 23:58,MODIFY,2/28/2022 10:40,Namami Shanker
+ test_multivariate.py,3/2/2022 7:12,MODIFY,3/1/2022 17:54,Namami Shanker
+ test_bunch.py,3/2/2022 2:22,MODIFY,3/2/2022 15:40,Matt Haberland
+ test_stats.py,3/2/2022 2:22,MODIFY,3/2/2022 15:40,Matt Haberland
+ test_bootstrap.py,3/3/2022 22:23,MODIFY,3/4/2022 11:41,Matt Haberland
+ test_propack.py,3/6/2022 23:41,MODIFY,3/6/2022 19:23,Bharath
+ test_axis_nan_policy.py,3/6/2022 12:11,MODIFY,3/6/2022 12:11,Matt Haberland
+ test_axis_nan_policy.py,3/6/2022 12:35,MODIFY,3/6/2022 12:35,Matt Haberland
+ test__dual_annealing.py,3/7/2022 5:07,MODIFY,3/6/2022 20:07,Daniel Schmitz
+ test_qmc.py,3/8/2022 5:34,MODIFY,3/7/2022 20:34,Pamphile Roy
+ test_sampling.py,3/8/2022 5:55,MODIFY,3/8/2022 10:13,Christoph Baumgarten
+ test_bootstrap.py,3/7/2022 21:01,MODIFY,3/8/2022 10:19,Matt Haberland
+ test_hypotests.py,3/7/2022 21:01,MODIFY,3/8/2022 10:19,Matt Haberland
+ test_hierarchy.py,3/8/2022 16:21,MODIFY,3/8/2022 16:21,Bas van Beek
+ test_kdtree.py,3/8/2022 16:21,MODIFY,3/8/2022 16:21,Bas van Beek
+ test_precompute_expn_asy.py,3/8/2022 16:21,MODIFY,3/8/2022 16:21,Bas van Beek
+ test_precompute_gammainc.py,3/8/2022 16:21,MODIFY,3/8/2022 16:21,Bas van Beek
+ test_precompute_utils.py,3/8/2022 16:21,MODIFY,3/8/2022 16:21,Bas van Beek
+ test_morestats.py,3/8/2022 16:21,MODIFY,3/8/2022 16:21,Bas van Beek
+ test_basic.py,3/9/2022 15:29,MODIFY,3/9/2022 10:29,Jake Bowhay
+ test_distributions.py,3/10/2022 22:46,MODIFY,3/10/2022 21:46,Nicholas McKibben
+ test_distributions.py,3/11/2022 22:43,MODIFY,3/12/2022 12:01,Matt Haberland
+ test_stats.py,3/13/2022 3:06,MODIFY,3/13/2022 11:06,Matt Haberland
+ test_morestats.py,3/14/2022 1:21,MODIFY,3/14/2022 9:21,Matt Haberland
+ test_distributions.py,3/14/2022 13:21,MODIFY,3/14/2022 21:21,Samuel Wallan
+ test_matfuncs.py,11/21/2021 23:56,MODIFY,3/15/2022 15:16,Ilhan Polat
+ test_expm_multiply.py,11/22/2021 12:07,MODIFY,3/15/2022 15:16,Ilhan Polat
+ test_matfuncs.py,11/23/2021 3:27,MODIFY,3/15/2022 15:16,Ilhan Polat
+ test_stats.py,3/15/2022 9:34,MODIFY,3/15/2022 17:34,Matt Haberland
+ test__util.py,3/15/2022 20:32,MODIFY,3/16/2022 8:50,Matt Haberland
+ test_mstats_basic.py,3/15/2022 20:32,MODIFY,3/16/2022 8:50,Matt Haberland
+ test_stats.py,3/15/2022 20:32,MODIFY,3/16/2022 8:50,Matt Haberland
+ test_continuous_basic.py,3/16/2022 21:44,MODIFY,3/17/2022 10:02,Matt Haberland
+ test_discrete_basic.py,3/16/2022 21:44,MODIFY,3/17/2022 10:02,Matt Haberland
+ test_kdtree.py,3/17/2022 9:11,MODIFY,3/17/2022 10:11,Jake Bowhay
+ test_spectral.py,3/17/2022 13:45,MODIFY,3/17/2022 8:45,Dietrich Brunn
+ test_stats.py,3/18/2022 9:58,MODIFY,3/18/2022 9:58,Matt Haberland
+ test_stats.py,3/18/2022 10:32,MODIFY,3/18/2022 10:32,Matt Haberland
+ test_spectral.py,3/18/2022 21:24,MODIFY,3/18/2022 16:24,Dietrich Brunn
+ test_kdtree.py,3/19/2022 2:33,MODIFY,3/19/2022 1:33,ML-Nielsen
+ test_basic.py,3/19/2022 20:38,MODIFY,3/19/2022 20:38,Jake Bowhay
+ test_stats.py,3/19/2022 23:48,MODIFY,3/19/2022 23:48,Matt Haberland
+ test_stats.py,3/20/2022 0:21,MODIFY,3/20/2022 0:21,Matt Haberland
+ test_stats.py,3/20/2022 0:25,MODIFY,3/20/2022 0:25,Matt Haberland
+ test_basic.py,3/20/2022 7:42,MODIFY,3/20/2022 7:42,Jake Bowhay
+ test_basic.py,3/20/2022 8:08,MODIFY,3/20/2022 8:08,Jake Bowhay
+ test_basic.py,3/20/2022 8:19,MODIFY,3/20/2022 8:19,Jake Bowhay
+ test_basic.py,3/20/2022 16:49,MODIFY,3/20/2022 16:49,Jake Bowhay
+ test_distributions.py,3/20/2022 14:39,MODIFY,3/20/2022 22:39,Matt Haberland
+ test_hypotests.py,3/20/2022 15:11,MODIFY,3/20/2022 15:11,Matt Haberland
+ test_resampling.py,3/20/2022 15:11,RENAME,3/20/2022 15:11,Matt Haberland
+ test_hypotests.py,3/20/2022 15:36,MODIFY,3/20/2022 15:36,Matt Haberland
+ test_resampling.py,3/20/2022 15:36,MODIFY,3/20/2022 15:36,Matt Haberland
+ test_stats.py,3/20/2022 15:36,MODIFY,3/20/2022 15:36,Matt Haberland
+ test_resampling.py,3/21/2022 10:27,MODIFY,3/21/2022 10:27,Pamphile Roy
+ test_distributions.py,3/21/2022 2:41,MODIFY,3/21/2022 10:41,Matt Haberland
+ test_sputils.py,3/21/2022 10:24,MODIFY,3/21/2022 11:24,Jake Bowhay
+ test_continuous_basic.py,3/21/2022 12:41,MODIFY,3/21/2022 20:41,Matt Haberland
+ test_morestats.py,3/21/2022 20:03,MODIFY,3/22/2022 8:21,Matt Haberland
+ test_stats.py,3/22/2022 18:56,MODIFY,3/22/2022 15:56,Srinivas Gorur-Shandilya
+ test_iterative.py,3/23/2022 16:59,MODIFY,3/23/2022 9:59,Gang Zhao
+ test_continuous_basic.py,3/23/2022 13:54,MODIFY,3/23/2022 13:54,Matt Haberland
+ test_distributions.py,3/23/2022 13:54,MODIFY,3/23/2022 13:54,Matt Haberland
+ test_distributions.py,3/23/2022 17:45,MODIFY,3/23/2022 17:45,Matt Haberland
+ test_fit.py,3/24/2022 8:24,MODIFY,3/24/2022 0:24,Christoph Baumgarten
+ test_graph_laplacian.py,3/25/2022 8:21,MODIFY,3/25/2022 13:21,Andrew Knyazev
+ test_mpmath.py,3/25/2022 11:57,MODIFY,3/25/2022 8:57,Warren Weckesser
+ test_ndtr.py,3/25/2022 11:57,MODIFY,3/25/2022 8:57,Warren Weckesser
+ test_ndtri_exp.py,3/25/2022 11:57,MODIFY,3/25/2022 8:57,Warren Weckesser
+ test_distributions.py,3/25/2022 11:57,MODIFY,3/25/2022 8:57,Warren Weckesser
+ test_windows.py,3/25/2022 22:02,MODIFY,3/25/2022 22:02,jyuv
+ test_filter_design.py,3/26/2022 3:37,MODIFY,3/26/2022 8:01,warren
+ test_backend.py,3/27/2022 9:45,MODIFY,3/27/2022 14:45,Gregory Lee
+ test_discrete_basic.py,3/27/2022 8:55,MODIFY,3/27/2022 11:55,Matt Haberland
+ test_optimize.py,3/27/2022 18:46,MODIFY,3/27/2022 18:46,Jake Bowhay
+ test_distributions.py,3/27/2022 21:23,MODIFY,3/27/2022 21:23,Samuel Wallan
+ test_hypotests.py,3/28/2022 15:53,MODIFY,3/28/2022 6:53,Arthur
+ test_distributions.py,3/29/2022 13:59,MODIFY,3/29/2022 19:59,Warren Weckesser
+ test_spherical_voronoi.py,3/30/2022 4:19,MODIFY,3/29/2022 20:19,ML-Nielsen
+ test_stats.py,3/29/2022 23:26,MODIFY,3/29/2022 20:26,Sambit Panda
+ test_distributions.py,3/30/2022 13:04,MODIFY,3/30/2022 22:04,Matt Haberland
+ test_fit.py,3/30/2022 13:04,MODIFY,3/30/2022 22:04,Matt Haberland
+ test_bsplines.py,3/31/2022 22:00,MODIFY,3/31/2022 22:00,Jake Bowhay
+ test_morestats.py,4/1/2022 1:00,MODIFY,3/31/2022 16:00,kleskjr
+ test_distributions.py,3/31/2022 18:04,MODIFY,3/31/2022 18:04,Matt Haberland
+ test_sampling.py,3/31/2022 18:04,MODIFY,3/31/2022 18:04,Matt Haberland
+ test_distributions.py,4/1/2022 14:13,MODIFY,4/1/2022 14:13,Matt Haberland
+ test_distributions.py,4/1/2022 14:26,MODIFY,4/1/2022 14:26,Matt Haberland
+ test_quadrature.py,4/2/2022 14:57,MODIFY,4/2/2022 11:39,Kartik Anand
+ test_distributions.py,4/2/2022 10:36,MODIFY,4/2/2022 19:36,Matt Haberland
+ test_discrete_basic.py,4/3/2022 11:00,MODIFY,4/3/2022 11:00,Matt Haberland
+ test_discrete_basic.py,4/3/2022 13:16,MODIFY,4/3/2022 13:16,Matt Haberland
+ test_discrete_basic.py,4/3/2022 13:51,MODIFY,4/3/2022 13:51,Matt Haberland
+ test_distributions.py,4/4/2022 8:58,MODIFY,4/4/2022 8:58,Matt Haberland
+ test_continuous_basic.py,4/4/2022 14:02,MODIFY,4/4/2022 17:02,Matt Haberland
+ test_hypotests.py,4/5/2022 21:12,MODIFY,4/6/2022 9:30,Matt Haberland
+ test_qmc.py,4/6/2022 7:37,MODIFY,4/5/2022 22:37,Pamphile Roy
+ test_resampling.py,4/9/2022 3:25,MODIFY,4/9/2022 12:25,Matt Haberland
+ test_iterative.py,4/13/2022 15:16,MODIFY,4/13/2022 15:28,Gang Zhao
+ test_construct.py,3/29/2022 9:41,MODIFY,4/13/2022 19:18,Gang Zhao
+ test_continuous_basic.py,4/14/2022 15:41,MODIFY,4/13/2022 21:41,h-vetinari
+ test_distributions.py,4/14/2022 15:41,MODIFY,4/13/2022 21:41,h-vetinari
+ test_spfuncs.py,4/14/2022 14:01,MODIFY,4/14/2022 23:01,Ross Barnowski
+ test_morestats.py,4/17/2022 19:48,MODIFY,4/17/2022 16:48,Thomas J. Fan
+ test_ivp.py,4/18/2022 11:40,MODIFY,4/18/2022 11:40,Volodymyr Kozachynskyi
+ test_flow.py,4/18/2022 19:37,MODIFY,4/18/2022 19:37,Søren Fuglede Jørgensen
+ test_qmc.py,4/19/2022 18:10,MODIFY,4/19/2022 9:10,Pamphile Roy
+ test_peak_finding.py,4/20/2022 3:25,MODIFY,4/19/2022 14:25,Sameer Deshmukh
+ test_qmc.py,4/22/2022 18:46,MODIFY,4/22/2022 9:46,Pamphile Roy
+ test_multivariate.py,4/22/2022 9:56,MODIFY,4/22/2022 22:14,Matt Haberland
+ test_signaltools.py,4/22/2022 14:23,MODIFY,4/22/2022 17:57,Sameer Deshmukh
+ test_base.py,4/23/2022 10:29,MODIFY,4/23/2022 15:57,Sameer Deshmukh
+ test_ivp.py,4/26/2022 1:52,MODIFY,4/26/2022 14:10,Matt Haberland
+ test_fit.py,4/26/2022 3:37,MODIFY,4/26/2022 15:55,Matt Haberland
+ test_iterative.py,4/26/2022 15:59,MODIFY,4/26/2022 21:59,Sameer Deshmukh
+ test_expm_multiply.py,4/26/2022 15:59,MODIFY,4/26/2022 21:59,Sameer Deshmukh
+ test_base.py,4/26/2022 15:59,MODIFY,4/26/2022 21:59,Sameer Deshmukh
+ test_arffread.py,4/26/2022 14:53,MODIFY,4/26/2022 22:53,Tyler Reddy
+ test_linsolve.py,4/26/2022 17:43,MODIFY,4/26/2022 23:43,Sameer Deshmukh
+ test_axis_nan_policy.py,4/27/2022 10:52,MODIFY,4/27/2022 23:10,Matt Haberland
+ test_stats.py,4/27/2022 10:52,MODIFY,4/27/2022 23:10,Matt Haberland
+ test_qmc.py,4/27/2022 23:10,MODIFY,4/27/2022 14:10,Pamphile Roy
+ test_nonlin.py,4/28/2022 6:07,MODIFY,4/28/2022 0:07,Gang Zhao
+ test_stats.py,4/28/2022 20:51,MODIFY,4/28/2022 8:33,Tirth Patel
+ test_distance.py,4/29/2022 0:29,MODIFY,4/29/2022 1:29,Jake Bowhay
+ test_sampling.py,4/29/2022 22:16,MODIFY,4/29/2022 18:58,Tirth Patel
+ test_stats.py,4/29/2022 22:36,MODIFY,4/30/2022 10:54,Matt Haberland
+ test_rbfinterp.py,4/30/2022 9:25,MODIFY,4/30/2022 11:25,Sergey Koposov
