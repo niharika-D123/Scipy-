@@ -13,6 +13,7 @@ Code coverage can be run by installing the coverage tool using pip and running t
 `$ coverage json -o OUTFILE`
 
 Details about files:
+
 a. task2.py: This file contains the script to find the total number of test files and the number of assert statements in each file.
 
 b. tak3.py: This file contains the script to find the location,file and number of times debug  statements has appeared in the production files.
