@@ -7,6 +7,7 @@ Prerequisites for building and testing SciPy project on macOS:
 To reproduce enviroment, we need to run `pip install -r doc_requirements.txt -r mypy_requirements.txt`
 
 Code coverage can be run by installing the coverage tool using pip and running the following commands: 
+
 `$ coverage run runtests.py`
 
 `$ coverage json -o OUTFILE`
