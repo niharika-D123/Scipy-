@@ -1,4 +1,4 @@
-Prerequisites for building and testing SciPy project on macOS:
+## Prerequisites for building and testing SciPy project on macOS:
 1.	Installation of official Python distribution.
 2.	Installation of Homebrew and GNU FORTRAN compiler via Homebrew. Cython and Pythran compilers are also required.
 3.	Installation of OpenBLAS library providing the BLAS and LAPACK interfaces.
@@ -12,7 +12,7 @@ Code coverage can be run by installing the coverage tool using pip and running t
 
 `$ coverage json -o OUTFILE`
 
-Details about files:
+## Details about files:
 
 a. coverage.json: This is the code coverage report generated in json format.
 
