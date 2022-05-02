@@ -24,6 +24,6 @@ d. tak3.py: This file contains the script to find the location,file and number o
 
 e. task3_2.py:This file contains the scripts to find the location,file and the number of times assert statements has appeared in the production files.
 
-f. task4.py: This file contains the scripts to find when test files are added,modified to this project and by whom, within last six months.
+f. task4.py: This file contains the scripts to find when test files are added,modified to this project and by whom i.e, list of authors, within last six months.
 
 g. gen-figures.py: This script was used to plot the figures.
